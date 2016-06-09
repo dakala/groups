@@ -1,0 +1,22 @@
+{
+    "name": "dakala/groups",
+    "description": "Laravel user groups management package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Deji Akala",
+            "email": "dejiakala@gmail.com"
+        }
+    ],
+    "require": {
+        "zizaco/entrust": " 5.2.x-dev",
+        "cviebrock/eloquent-sluggable": "^3.1",
+        "baum/baum": "~1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dajonems\\Groups\\": "src/Groups"
+        }
+    },
+    "minimum-stability": "dev"
+}
