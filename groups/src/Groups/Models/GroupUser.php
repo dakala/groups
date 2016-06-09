@@ -1,6 +1,6 @@
 <?php
 
-namespace Dajonems\Groups\Models;
+namespace Dakala\Groups\Models;
 
 use Illuminate\Database\Eloquent\Model;
 

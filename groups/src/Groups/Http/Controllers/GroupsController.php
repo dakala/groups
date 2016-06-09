@@ -1,6 +1,6 @@
 <?php
 
-namespace Dajonems\Groups\Http\Controllers;
+namespace Dakala\Groups\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use Carbon\Carbon;

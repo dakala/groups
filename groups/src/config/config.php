@@ -18,7 +18,7 @@ return [
     | if it is in a different namespace.
     |
     */
-    'group' => 'Dajonems\Groups\Models\Group',
+    'group' => 'Dakala\Groups\Models\Group',
 
     /*
     |--------------------------------------------------------------------------
@@ -39,7 +39,7 @@ return [
     | the role if it is in a different namespace.
     |
     */
-    'group_role' => 'Dajonems\Groups\Models\GroupRole',
+    'group_role' => 'Dakala\Groups\Models\GroupRole',
 
     /*
     |--------------------------------------------------------------------------
@@ -60,7 +60,7 @@ return [
     | Update the permission if it is in a different namespace.
     |
     */
-    'group_permission' => 'Dajonems\Groups\Models\GroupPermission',
+    'group_permission' => 'Dakala\Groups\Models\GroupPermission',
 
     /*
     |--------------------------------------------------------------------------

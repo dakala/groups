@@ -1,6 +1,6 @@
 <?php
 
-namespace Dajonems\Groups;
+namespace Dakala\Groups;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Routing\Router;
@@ -65,7 +65,7 @@ class GroupsServiceProvider extends ServiceProvider
      */
     public function setupRoutes(Router $router)
     {
-        $router->group(['namespace' => 'Dajonems\Groups\Http\Controllers'], function ($router) {
+        $router->group(['namespace' => 'Dakala\Groups\Http\Controllers'], function ($router) {
             require __DIR__ . '/Http/routes.php';
         });
     }

@@ -1,6 +1,6 @@
 <?php
 
-namespace Dajonems\Groups;
+namespace Dakala\Groups;
 
 use Illuminate\Support\Facades\Facade;
 
