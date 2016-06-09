@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Groups\\": "src/Groups/"
+            "Dakala\\Groups\\": "src/"
         }
     },
     "minimum-stability": "dev"
